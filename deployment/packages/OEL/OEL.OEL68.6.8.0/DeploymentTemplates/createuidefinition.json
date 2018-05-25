@@ -20,7 +20,7 @@
     "imageReference": {
       "publisher": "OEL",
       "offer": "OEL",
-      "sku": "OEL68"
+      "sku": "OEL69"
     },
     "diskType": "Standard",
     "dataDisks": [],
