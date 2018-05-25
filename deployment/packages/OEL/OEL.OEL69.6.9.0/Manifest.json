@@ -1,8 +1,8 @@
 {
     "$schema": "https://gallery.azure.com/schemas/2015-10-01/manifest.json#",
-    "name": "OEL68",
+    "name": "OEL69",
     "publisher": "OEL",
-    "version": "6.8.0",
+    "version": "6.9.0",
     "displayName": "ms-resource:displayName",
     "publisherDisplayName": "ms-resource:publisherDisplayName",
     "publisherLegalName": "ms-resource:publisherLegalName",
